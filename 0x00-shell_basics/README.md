@@ -1,1 +1,1 @@
-Delete the directory my_first_directory
+Display current directory contents
